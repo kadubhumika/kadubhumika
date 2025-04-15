@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @kadubhumika HELLO , I AM BHUMIKA KADU
-- 👀 I’m interested in .I AM INTRESTED IN PLAYING BADMINTON , PROGRAMMING ,CODING ,TRAVELLING..
-I AM CURRENTLY LEARNING IN SGGSE&T NANDED CSE STUDENT- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...MEMBER AT SWAG AND GDG CLUB
-- 📫 How to reach me ...
-- 😄 Pronouns: SHE/HER...
-  - ⚡ Fun fact: ..TRAVELLING IS MY OASSION BUT TILL NOW NOT EVEN EXPLORE MY STATE ONLY.
-😂
-<!---
-kadubhumika/kadubhumika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, I'm Bhumika Kadu!
+🎓 I'm a Computer Science student at SGGSE&T, Nanded
+
+💻 Passionate about programming, coding, and everything tech
+
+🏸 Big fan of badminton — always ready for a match!
+
+🌍 I absolutely love traveling, even though I haven’t explored my own state yet 😅
+
+👩‍💻 Actively learning and growing every day in the world of tech
+
+💫 Proud member of SWAG and GDG Club – always looking to collaborate and build cool stuff
+
+🌱 Currently diving deeper into Android Development, Kotlin, and DSA
+
+😄 Pronouns: She/Her
+
+📬 Feel free to reach out if you want to connect, code, or collab!
+
+🔥 Fun fact: Traveling is my passion... but my travel journey still hasn’t made it past my state! Working on it! 😂
+
