@@ -49,35 +49,6 @@ I build production-oriented backend systems with a focus on scalability, securit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🌟 Featured Projects
-
-### 🏦 Centralized Banking Ledger
-Production-style banking backend with:
-- Atomic transactions
-- JWT + OTP authentication
-- Redis caching
-- WebSocket notifications
-- Dockerized deployment
-- Audit logging
-
-### 📄 ExamForge AI
-AI-powered question paper generation platform featuring:
-- FastAPI backend
-- PostgreSQL
-- Redis background workers
-- PDF generation
-- Asynchronous processing
-
-### 🎮 MazeBlitz
-Full-stack Android maze game:
-- Kotlin + Jetpack Compose
-- FastAPI backend
-- PostgreSQL
-- Authentication
-- Leaderboards
-- Cloud deployment
-
----
 ## 📈 Currently Learning
 
 - 🐳 Advanced Docker workflows
